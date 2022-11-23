@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"init.h": "c",
+			"arm-gic.h": "c",
+			"irqdomain.h": "c",
+			"irqhandler.h": "c"
+		}
+	}
+}

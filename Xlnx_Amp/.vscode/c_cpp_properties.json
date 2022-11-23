@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ubuntu/ProgramWorks/Linux/Kernel/ZYNQ/SourceCode/linux-xlnx-xilinx-v2018.3/include",
+                "/home/ubuntu/ProgramWorks/Linux/Kernel/ZYNQ/SourceCode/linux-xlnx-xilinx-v2018.3/arch/arm/include",
+                "/home/ubuntu/ProgramWorks/Linux/Kernel/ZYNQ/SourceCode/linux-xlnx-xilinx-v2018.3/arch/arm/include/generated"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
