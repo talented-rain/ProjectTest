@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ubuntu/ProgramWorks/Linux/Kernel/Linux/TI/SourceCode/myir-kernel4.18/include",
+                "/home/ubuntu/ProgramWorks/Linux/Kernel/Linux/TI/SourceCode/myir-kernel4.18/arch/arm/include",
+                "/home/ubuntu/ProgramWorks/Linux/Kernel/Linux/TI/SourceCode/myir-kernel4.18/arch/arm/include/generated"
+            ],
+            "defines": [
+                "__KERNEL__"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
